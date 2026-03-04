@@ -9,6 +9,7 @@ Note: The system will automatically convert your mobile number to international 
 http://localhost/serviceProvider/
 http://192.168.8.102/serviceProvider/
 CHANGE IP ADDRESS
+Location: C:\xampp\htdocs\serviceProvider
 
 DATABASE
 serviceprovider.sql
@@ -33,4 +34,5 @@ Step2: Login
 Step3: Forgot password
 Step4: Sent OPT
 Step5: Can change password
+
 Step6: Login with new password
