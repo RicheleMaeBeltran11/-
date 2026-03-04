@@ -1,4 +1,5 @@
 IprogSMS CREDITS 100
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
 
 http://192.168.8.102/serviceProvider/login-page.php
 Email: richellebeltran7@gmail.com
@@ -29,6 +30,7 @@ register.php
 forgot-password.php
 dashboard.php
 
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
 Step1: Create User Account
 Step2: Login
 Step3: Forgot password
@@ -36,3 +38,4 @@ Step4: Sent OPT
 Step5: Can change password
 
 Step6: Login with new password
+
